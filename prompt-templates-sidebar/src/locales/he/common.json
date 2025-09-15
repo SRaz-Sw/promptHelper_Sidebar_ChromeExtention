@@ -1,0 +1,62 @@
+{
+  "sidebar": {
+    "title": "עוזר הפרומפטים",
+    "promptsCount": "פרומפט {{count}}",
+    "promptsCount_plural": "פרומפטים {{count}}",
+    "promptsSaved": "נשמרו"
+  },
+  "search": {
+    "placeholder": "חיפוש פרומפטים...",
+    "clear": "נקה"
+  },
+  "buttons": {
+    "newPrompt": "פרומפט חדש",
+    "export": "ייצא פרומפטים",
+    "import": "ייבא פרומפטים",
+    "edit": "ערוך",
+    "delete": "מחק",
+    "copy": "העתק",
+    "cancel": "בטל",
+    "save": "שמור",
+    "submit": "שלח",
+    "update": "עדכן",
+    "saving": "שומר..."
+  },
+  "form": {
+    "title": {
+      "label": "כותרת",
+      "placeholder": "הכנס כותרת פרומפט..."
+    },
+    "content": {
+      "label": "תוכן",
+      "placeholder": "הכנס את תוכן הפרומפט שלך..."
+    },
+    "tags": {
+      "label": "תגיות",
+      "placeholder": "הכנס תגיות מופרדות בפסיקים...",
+      "help": "הפרד תגיות מרובות בפסיקים (לדוגמה: עבודה, כתיבה, יצירתי)"
+    },
+    "editPrompt": "ערוך פרומפט",
+    "newPrompt": "פרומפט חדש"
+  },
+  "messages": {
+    "copied": "הועתק ללוח!",
+    "exportSuccess": "✅ פרומפטים יוצאו בהצלחה!",
+    "exportError": "❌ נכשל בייצוא פרומפטים",
+    "importSuccess": "✅ {{count}} פרומפטים יובאו בהצלחה!",
+    "importError": "❌ נכשל בייבוא פרומפטים",
+    "deleteConfirm": "האם אתה בטוח שברצונך למחוק את הפרומפט הזה?"
+  },
+  "validation": {
+    "titleRequired": "כותרת נדרשת",
+    "titleMaxLength": "הכותרת חייבת להיות פחות מ-{{max}} תווים",
+    "contentRequired": "תוכן נדרש",
+    "contentMaxLength": "התוכן חייב להיות פחות מ-{{max}} תווים",
+    "tagsMaxLength": "התגיות חייבות להיות פחות מ-{{max}} תווים"
+  },
+  "accessibility": {
+    "dragHandle": "גרור כדי לסדר מחדש",
+    "toggleDarkMode": "החלף מצב כהה",
+    "languageSwitch": "החלף שפה"
+  }
+}
