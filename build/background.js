@@ -1,0 +1,1 @@
+chrome.action.onClicked.addListener(async e=>{try{e.id&&e.windowId&&await chrome.sidePanel.open({windowId:e.windowId})}catch(n){console.error("Failed to open side panel:",n)}});chrome.runtime.onInstalled.addListener(()=>{chrome.sidePanel.setPanelBehavior({openPanelOnActionClick:!0})});
